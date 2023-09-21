@@ -1,5 +1,9 @@
 # Leonardo Diego 👋
 
+<p align="center">
+  <img src="github-metrics.svg">
+</p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Diego-33b3cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-diego-7a70752a/)](https://www.linkedin.com/in/leonardo-diego-7a70752a/) 
 
 <!--
